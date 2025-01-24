@@ -13,11 +13,7 @@ Unit testing is a crucial aspect of software development. It involves testing in
 
 ## Testing Frameworks
 
-This repository demonstrates unit testing using popular .NET testing frameworks:
-
-* **NUnit:** A widely-used, open-source testing framework for .NET.
-* **xUnit:** A modern, extensible testing framework known for its simplicity and performance.
-* **MSTest:** Microsoft's built-in testing framework, often used in Visual Studio.
+This repository demonstrates unit testing using popular xUnit .NET testing framework. A modern, extensible testing framework known for its simplicity and performance.
 
 ## Topics Covered
 
