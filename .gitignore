@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/UnitTestingInCSharp/.vs/UnitTestingInCSharp
+/UnitTestingInCSharp/PurchaseOrders/bin/Debug/net8.0
+/UnitTestingInCSharp/PurchaseOrders/obj
+/UnitTestingInCSharp/PurchaseOrders.Tests/bin/Debug/net8.0
+/UnitTestingInCSharp/PurchaseOrders.Tests/obj
